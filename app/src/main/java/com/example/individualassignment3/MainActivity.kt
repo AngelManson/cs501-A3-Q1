@@ -88,6 +88,7 @@ fun SettingsScreen(modifier: Modifier = Modifier) {
                             MaterialTheme.colorScheme.outlineVariant,
                             MaterialTheme.shapes.medium
                         )
+                        .background(color = MaterialTheme.colorScheme.surface)
                 ) {
                     Text(
                         text = "App Settings",
