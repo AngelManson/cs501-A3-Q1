@@ -15,10 +15,9 @@ This Android application demonstrates a Settings screen built using Jetpack Comp
 
 # 3. Device / Emulator / SDK Version
 
-- **Emulator Device:**    
-- **API Level:**   
-- **Minimum SDK:**   
-- **Target SDK:**  
+- **Emulator Device:** Medium Phone API 36.1 (Android 16.0 ("Baklava"))      
+- **Minimum SDK:** 26  
+- **Target SDK:** 36
 
 
 # 4. AI Disclosure
