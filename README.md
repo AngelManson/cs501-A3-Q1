@@ -8,8 +8,9 @@ This Android application demonstrates a Settings screen built using Jetpack Comp
 
 # 2. Screenshot of the Running App
 
+<img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/a7e89103-1c93-4979-bb32-7f0683d42b9f" />
 
-
+<img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/a7e89103-1c93-4979-bb32-7f0683d42b9f" />
 
 # 3. Device / Emulator / SDK Version
 
