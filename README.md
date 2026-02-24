@@ -22,13 +22,5 @@ This Android application demonstrates a Settings screen built using Jetpack Comp
 
 # 4. AI Disclosure
 
-Portions of this assignment were developed with assistance from **ChatGPT**.
-
-AI was used to:
-
-- Explain Modifier usage (`weight`, `align`, `heightIn`, etc.)  
-- Debug Git configuration issues  
-- Improve UI polish and consistency  
-
-All code was reviewed, tested, and understood before submission.
+While working on this assignment, I utilized ChatGPT in several ways. ChatGPT helped me understand more about the Modifier and its components like weight, align and heightIn. I found myself confused at moments about how to properly move the text to the center or how to bring things closer/move them further apart. When I ran into problems with controls being misaligned or sliders truncating text, ChatGPT helped me identify that I needed to actually handle the rows with sliders differently compared to the rows without. This helped me realized that I wouldn't be able to get the sliders to stay on the right side with the approach I was taking, allowing me to reevaluate my approach and make the necessary changes. I also ran into a lot of issues with pushing my code to my git repository, so I had to work with Chat to figure out where the issue lied and properly push everything. There were several suggestions I did not take from Chat, one of them being its suggestion to just make one large composition function instead of breaking it down when I was struggling with spacing. I found that approach to look messy and inefficient especially when it came to testing. 
 
