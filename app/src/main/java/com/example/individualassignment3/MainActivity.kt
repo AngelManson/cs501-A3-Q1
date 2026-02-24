@@ -26,6 +26,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -81,12 +82,12 @@ fun SettingsScreen(modifier: Modifier = Modifier) {
                 Card(
                     modifier = Modifier
                         .fillMaxWidth()
-                        .clip(MaterialTheme.shapes.medium)
+                        .clip(RectangleShape)
                         .padding(top = 8.dp)
                         .border(
                             1.dp,
                             MaterialTheme.colorScheme.outlineVariant,
-                            MaterialTheme.shapes.medium
+                            RectangleShape
                         )
                         .background(color = MaterialTheme.colorScheme.surface)
                 ) {
